@@ -1,0 +1,13 @@
+# plugin runtime data (contains API keys / tokens)
+plugins/instagram_monitor/data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

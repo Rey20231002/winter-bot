@@ -1,0 +1,7 @@
+name: instagram_monitor
+desc: 自动监控 Instagram 账号新帖子，推送图文到 QQ。支持配置监控账号列表和检查间隔。
+author: Winter Bot
+version: 2.0.0
+repo: https://github.com/user/instagram_monitor
+support_platforms:
+  - qq_official
