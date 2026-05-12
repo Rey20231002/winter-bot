@@ -39,7 +39,7 @@
 
 ## 技术栈
 
-Python · AstrBot · DeepSeek V4 · QQ Bot API · Instagram API 逆向
+Python · 
 
 ## 许可
 
